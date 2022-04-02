@@ -10,7 +10,7 @@ int main()
     {
         printf("You are Elgible");
     }
-    if (18 = age)
+    if (18 == age)
     {
         printf("You are elgible");
     }
