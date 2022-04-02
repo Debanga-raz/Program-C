@@ -20,4 +20,6 @@ int main()
     {
         printf("You are not Elgible");
     }
+
+    printf("\n\nThanks For using us");
 }   
